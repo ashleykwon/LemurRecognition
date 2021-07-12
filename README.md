@@ -5,7 +5,7 @@ Unity + Magic Leap application that uses fine-tuned ResNet50 to recognize 5 diff
 
 -After opening the default scene, add to the scene Main Camera and Controller objects
 
--Make an object called ControllerInput and an object called UserInterfaceInput based on this tutorial:https://developer.magicleap.com/en-us/learn/guides/unity-user-input-overview
+-Make an object called ControllerInput and an object called UserInterfaceInput based on this tutorial: https://developer.magicleap.com/en-us/learn/guides/unity-user-input-overview
 
 -Make a canvas and add buttons and texts to it. All texts on the buttons should be TextMestProUGUI objects
 
